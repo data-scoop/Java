@@ -5,7 +5,7 @@ This program transalates the letters in a user-provided phone number -- back int
 */
 
 import javax.swing.JOptionPane;
-public class Q3_Alphabetic_phone_number_translator {
+public class WordsToPhoneNumberTranslator {
 	public static void main(String[] args) {
 		
 		// Acquire digits
@@ -27,4 +27,4 @@ public class Q3_Alphabetic_phone_number_translator {
 		// Echo replacement number
 		System.out.print("Dial: " + s);
 	}
-}
+} // End WordsToPhoneNumberTranslator{}
