@@ -8,7 +8,7 @@ The user wins a prize equal to 2x their wager when two values match, and 3x when
 
 import java.util.Random;
 import javax.swing.JOptionPane;
-public class Lab4Q6 {
+public class SlotMachine {
 
 	public static void main(String[] args) {
 
@@ -104,4 +104,4 @@ public class Lab4Q6 {
 		System.out.print(" -$----------------- ~ -----------------$-");
 		System.out.print("\n\tYou wagered a total of $"+dollarsWagered+"\n\t  You won a total of $"+dollarsWon);
 	} // End main()
-} // End Lab4Q6
+} // End SlotMachine
